@@ -34,7 +34,7 @@ Criado uma OnePage visando as Regras de Negócios elaborada pela FIEMG.
 
 - [Gabriel Lucas Ferreira](https://github.com/GabrielLucasF)
 
-## Link do site
+## 🌎 Link do site
 
 - [Site do projeto](https://gabriellucasf.github.io/projeto-saep/)
 
