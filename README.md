@@ -36,7 +36,7 @@ Criado uma OnePage visando as Regras de Negócios elaborada pela FIEMG.
 
 ## Link do site
 
-- https://gabriellucasf.github.io/projeto-saep/
+- [Site do projeto](https://gabriellucasf.github.io/projeto-saep/)
 
 ## Pessoas Contribuidoras
 
